@@ -6,7 +6,7 @@ Code has now been refactored to meet accessibility standards:
     Comments added to .html and .css
     .css selectors and properties are consolidated and organized according to semantic structure
 
-![Screenshot of working website](./Assets/images/MarketingAgency-Screenshot.png)
+![Screenshot of working website](./assets/images/MarketingAgency-Screenshot.png)
 
 Github repository: https://github.com/BGrowcott/Marketing_Agency_Refactor
 
